@@ -1,5 +1,6 @@
 package com.example.tests
 
+import com.example.tests.utils.Calculator
 import org.junit.After
 import org.junit.Assert.assertEquals
 import org.junit.Before

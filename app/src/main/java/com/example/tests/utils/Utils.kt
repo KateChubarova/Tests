@@ -1,4 +1,4 @@
-package com.example.tests
+package com.example.tests.utils
 
 fun stringToInteger(s: String): Int {
     return try {
