@@ -3,4 +3,5 @@
     <string name="nothing">nothing</string>
     <string name="url">url</string>
     <string name="file">file</string>
+    <string name="empty_text">Text is empty</string>
 </resources>
